@@ -1,0 +1,124 @@
+.bg-container-job {
+  background-color: #272727;
+  height: 100%;
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+.profile-view-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 100%;
+  height: 35vh;
+  padding: 20px;
+  border-radius: 25px;
+}
+.job-catogry-container {
+  width: 25%;
+}
+
+.rahul-name {
+  font-size: 20px;
+  font-family: Roboto;
+  color: #6366f1;
+}
+.shortbio {
+  font-size: 15px;
+  font-family: Roboto;
+  margin-top: 10px;
+}
+.retry-button {
+  background-color: #6366f1;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+  cursor: pointer;
+  width: 80px;
+  height: 30px;
+}
+.retry-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.retry-button-container {
+  height: 200px;
+}
+.heading-select {
+  font-size: 20px;
+  font-family: Roboto;
+  color: #ffffff;
+}
+.list-item {
+  list-style-type: none;
+  margin-top: 8px;
+}
+.list-container {
+  padding-left: 0px;
+}
+
+.label {
+  font-size: 13px;
+  font-family: Roboto;
+  color: #ffffff;
+  margin-left: 5px;
+}
+.input-job-container {
+  width: 72%;
+}
+
+.failure-image {
+  width: 300px;
+  text-align: center;
+}
+.went-wrong {
+  font-size: 24px;
+  font-family: Roboto;
+  color: #ffffff;
+}
+
+.wrong-text {
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: 400;
+  color: #ffffff;
+}
+.search-input {
+  background-color: transparent;
+  height: 30px;
+  border-top: 1px solid #64748b;
+  border-left: 1px solid #64748b;
+  border-bottom: 1px solid #64748b;
+  color: #ffffff;
+  border-right: 1px solid transparent;
+
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.search-icon {
+  color: #ffffff;
+}
+.search-button {
+  background-color: transparent;
+  height: 30px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  border-top: 1px solid #64748b;
+  border-right: 1px solid #64748b;
+  border-bottom: 1px solid #64748b;
+  border-left: 1px solid transparent;
+}
+.Something-Went-Wrong {
+  text-align: center;
+  margin-top: 80px;
+  margin-left: 100px;
+}
+.job-item-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.profile-image {
+  width: 50px;
+  height: 50px;
+}
